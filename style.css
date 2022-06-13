@@ -1,0 +1,20 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@500&display=swap');
+body {
+  background: #15141b;
+ font-family: 'Poppins';
+}
+.clock {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translateX(-50%) translateY(-50%);
+  color: #17D4FE;
+  font-size: 60px;
+  font-weight: 400;
+  letter-spacing: 7px;
+  min-width: 460px;
+  border: 4px dotted #17D4FE;
+  padding: 2rem;
+
+
+}
