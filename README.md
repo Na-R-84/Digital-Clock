@@ -1,6 +1,9 @@
 
 ## Welcome! 👋
 
+
+## Check the time here
+Github IO- [Check it](https://na-r-84.github.io/Digital-Clock/)
 ### Screenshot
 
 ![](./screenshot.jpg)
